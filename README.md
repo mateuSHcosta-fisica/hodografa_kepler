@@ -1,6 +1,6 @@
 #  Hodógrafa de Hamilton: Laboratório Virtual para Mecânica Orbital
 
-[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg]](https://colab.research.google.com/drive/1zXxVV2EYAurAkbrpkszD0RScOSWrhPNj#scrollTo=uNUTpi_NbScd))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zXxVV2EYAurAkbrpkszD0RScOSWrhPNj#scrollTo=uNUTpi_NbScd)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 Este repositório contém o material suplementar e os códigos-fonte das simulações interativas descritas no artigo **"A Hodógrafa de Hamilton como Ferramenta Didática para o Ensino de Mecânica Orbital e Analítica"** (submetido à *Revista Brasileira de Ensino de Física - RBEF*).
